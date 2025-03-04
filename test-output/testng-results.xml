@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[url:https://dev.admin.bluegrassbsc.com/]]>
+    </line>
+    <line>
+      <![CDATA[browserName:chrome]]>
+    </line>
+    <line>
+      <![CDATA[driverAgent:chromedriver]]>
+    </line>
+    <line>
+      <![CDATA[executionEnvironment:local]]>
+    </line>
+    <line>
+      <![CDATA[browserStackUserName:null]]>
+    </line>
+    <line>
+      <![CDATA[browserStackAuthKey:null]]>
+    </line>
+    <line>
+      <![CDATA[browserStackBrowserVersion:null]]>
+    </line>
+    <line>
+      <![CDATA[browserStackOSVersion:null]]>
+    </line>
+    <line>
+      <![CDATA[os:null]]>
+    </line>
+    <line>
+      <![CDATA[outputPath:null]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://img[@alt='Main Logo']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://img[@alt='Main Logo']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://input[@name='email']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://input[@name='email']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://p[text()='Forgot Password?']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://p[text()='Forgot Password?']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://button[text()='Login']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://button[text()='Login']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://input[@name='password']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://input[@name='password']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://input[@name='email']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://input[@name='email']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://input[@name='password']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://input[@name='password']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element using: xpath://button[text()='Login']]]>
+    </line>
+    <line>
+      <![CDATA[Finding element, try0 with locator:xpath://button[text()='Login']]]>
+    </line>
+    <line>
+      <![CDATA[Closing the Browser Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-03T06:45:04Z" name="Suite" finished-at="2025-03-03T06:45:23Z" duration-ms="18354">
+    <groups>
+    </groups>
+    <test started-at="2025-03-03T06:45:04Z" name="Bluegrass" finished-at="2025-03-03T06:45:23Z" duration-ms="18354">
+      <class name="com.db.Regression.LoginTest3">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:04Z" name="cleanUp" finished-at="2025-03-03T12:15:04Z" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:04Z" name="setUp" finished-at="2025-03-03T12:15:10Z" duration-ms="6201" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@42373389]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[url:https://dev.admin.bluegrassbsc.com/]]>
+            </line>
+            <line>
+              <![CDATA[browserName:chrome]]>
+            </line>
+            <line>
+              <![CDATA[driverAgent:chromedriver]]>
+            </line>
+            <line>
+              <![CDATA[executionEnvironment:local]]>
+            </line>
+            <line>
+              <![CDATA[browserStackUserName:null]]>
+            </line>
+            <line>
+              <![CDATA[browserStackAuthKey:null]]>
+            </line>
+            <line>
+              <![CDATA[browserStackBrowserVersion:null]]>
+            </line>
+            <line>
+              <![CDATA[browserStackOSVersion:null]]>
+            </line>
+            <line>
+              <![CDATA[os:null]]>
+            </line>
+            <line>
+              <![CDATA[outputPath:null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginUi()[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:10Z" name="verifyLoginUi" finished-at="2025-03-03T12:15:11Z" duration-ms="599" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding element using: xpath://img[@alt='Main Logo']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://img[@alt='Main Logo']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://input[@name='email']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://input[@name='email']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://p[text()='Forgot Password?']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://p[text()='Forgot Password?']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://button[text()='Login']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://button[text()='Login']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://input[@name='password']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://input[@name='password']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginUi -->
+        <test-method is-config="true" signature="checkAlerts(org.testng.ITestResult)[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:11Z" name="checkAlerts" finished-at="2025-03-03T12:15:11Z" duration-ms="40" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginUi status=SUCCESS method=LoginTest3.verifyLoginUi()[pri:0, instance:com.db.Regression.LoginTest3@30c8681] output=Finding element using: xpath://img[@alt='Main Logo']]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlerts -->
+        <test-method signature="verifyLogIn()[pri:1, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:11Z" name="verifyLogIn" finished-at="2025-03-03T12:15:22Z" duration-ms="10660" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding element using: xpath://input[@name='email']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://input[@name='email']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://input[@name='password']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://input[@name='password']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element using: xpath://button[text()='Login']]]>
+            </line>
+            <line>
+              <![CDATA[Finding element, try0 with locator:xpath://button[text()='Login']]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogIn -->
+        <test-method is-config="true" signature="checkAlerts(org.testng.ITestResult)[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:22Z" name="checkAlerts" finished-at="2025-03-03T12:15:22Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogIn status=SUCCESS method=LoginTest3.verifyLogIn()[pri:1, instance:com.db.Regression.LoginTest3@30c8681] output=Finding element using: xpath://input[@name='email']]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlerts -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.db.Regression.LoginTest3@30c8681]" started-at="2025-03-03T12:15:22Z" name="quitBrowser" finished-at="2025-03-03T12:15:23Z" duration-ms="820" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing the Browser Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.db.Regression.LoginTest3 -->
+    </test> <!-- Bluegrass -->
+  </suite> <!-- Suite -->
+</testng-results>
